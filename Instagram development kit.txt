@@ -5,3 +5,4 @@
 5. send messages program ( text, audio)
 6. Upload posts program
 7. Profile picture update
+8. Insta main settings program
